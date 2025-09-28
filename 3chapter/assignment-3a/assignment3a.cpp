@@ -1,3 +1,8 @@
+/*
+Name: Nahimana Emable
+Date: Sep 27, 2025
+Program description: This program converts U.S. dollars into two cryptocurrencies: Bitcoin (BTC) and Dogecoin (DOGE).
+*/
 #include <iostream>
 #include <iomanip>
 using namespace std;
